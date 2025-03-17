@@ -10,5 +10,7 @@ Comando para testes em modo headless
   npx cypress run
 
 Comando para instalação do mochawesome 
-npm install --save-dev mochawesome 
+  npm install --save-dev mochawesome 
 
+Comando para testes em modo mochawesome 
+  npm cypress run --reporter mochawesome 
