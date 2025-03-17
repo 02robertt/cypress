@@ -9,3 +9,6 @@ Instalação cypress no projeto
 Comando para testes em modo headless 
   npx cypress run
 
+Comando para instalação do mochawesome 
+npm install --save-dev mochawesome 
+
